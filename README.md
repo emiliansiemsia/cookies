@@ -1,2 +1,2 @@
 # cookies
-Symfony3 Bundle, cookies encryption in symfony3
+Symfony3 Project, bundle example how to encrypt cookies in symfony3

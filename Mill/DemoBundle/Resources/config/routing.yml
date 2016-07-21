@@ -1,0 +1,3 @@
+mill_demo_homepage:
+    path:     /
+    defaults: { _controller: MillDemoBundle:Default:index }

@@ -1,0 +1,8 @@
+#services:
+#    mill_demo_extension:
+#        class: Mill\DemoBundle\EventListener\CookiesListener
+#        arguments: [['name', 'ip', 'expiration'], "aes128", "s3cr3tpassword", "1234567891234567"]
+#        tags:
+#           - { name: kernel.event_listener, event: kernel.request, method: onKernelRequest }
+#           - { name: kernel.event_listener, event: kernel.response, method: onKernelResponse }
+#
